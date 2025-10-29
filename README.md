@@ -73,7 +73,6 @@ A WebGL2-based 3D terrain simulator featuring procedural terrain generation, hei
 1. Clone the repository:
     ```bash
     git clone https://github.com/NICKLIN13/3D-terrain-simulator.git
-    cd 3D_terrain_simulator
     ```
 2. Open 3D_terrain_simulator.html in a WebGL2-capable browser (Chrome, Firefox, Edge, etc.)
 3. Use the keyboard controls to explore the terrain
